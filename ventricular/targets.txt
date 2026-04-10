@@ -1,0 +1,7 @@
+index	identifier	file	clip	sum_stat	description
+0	D0	../../data/cools/D0/iPSC_D0_mapq_30_2048.cool	2	sum	D0_Ventricular
+1	D2	../../data/cools/D2/iPSC_D2_mapq_30_2048.cool	2	sum	D2_Ventricular
+2	D4	../../data/cools/D4/iPSC_D4_mapq_30_2048.cool	2	sum	D4_Ventricular
+3	D6	../../data/cools/D6/iPSC_D6_mapq_30_2048.cool	2	sum	D6_Ventricular
+4	D11	../../data/cools/D11/iPSC_D11_mapq_30_2048.cool	2	sum	D11_Ventricular
+5	D23	../../data/cools/D23/iPSC_D23_mapq_30_2048.cool	2	sum	D23_Ventricular

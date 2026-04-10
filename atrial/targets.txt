@@ -1,0 +1,8 @@
+index	identifier	file	clip	description
+0	D0	../../data/cools/D0_combine/Ventricular_D0_mapq_30_2048.cool	2	D0
+1	D2	../../data/cools/D2/Atrial_CM_D2_mapq_30_2048.cool	2	D2
+2	D4	../../data/cools/D4/Atrial_CM_D4_mapq_30_2048.cool	2	D4
+3	D6	../../data/cools/D6/Atrial_CM_D6_mapq_30_2048.cool	2	D6
+4	D11	../../data/cools/D11/Atrial_CM_D11_mapq_30_2048.cool	2	D11
+5	D20	../../data/cools/D20/Atrial_CM_D20_mapq_30_2048.cool	2	D20
+6	D45	../../data/cools/D45/Atrial_CM_D45_mapq_30_2048.cool	2	D45
